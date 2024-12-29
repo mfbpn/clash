@@ -2,8 +2,8 @@
 
 ## 1.购买Shadowrocket代理服务
 
-* [2023机场推荐](https://github.com/winston779/clash/blob/main/%E6%9C%80%E6%96%B0clash%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)
-* [免费机场推荐](https://github.com/winston779/clash/blob/main/%E5%85%8D%E8%B4%B9clash%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5.md)
+* [2023机场推荐](https://github.com/mfbpn/clash/blob/main/%E6%9C%80%E6%96%B0clash%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90.md)
+* [免费机场推荐](https://github.com/mfbpn/clash/blob/main/%E5%85%8D%E8%B4%B9clash%E6%9C%BA%E5%9C%BA%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5.md)
 
 ## 2.获取外区苹果 id
 
