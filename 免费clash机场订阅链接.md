@@ -7,7 +7,7 @@
 
 ## 1. 免费机场：v2free机场
 
-机场地址：[v2free机场](https://clever99.com/j/v2free)
+机场地址：[v2free机场](https://w1.v2free.cc/auth/register?code=GtsJ)
 
 ### v2free机场免费节点
 
@@ -21,7 +21,7 @@ v2free机场有全面的使用教程，如果体验不错，可以购买付费�
 
 ## 2. 免费机场：~~飞云机场~~ 已无法注册
 
-机场地址：[飞云机场](https://clever99.com/j/feiyun)
+机场地址：[飞云机场]()
 
 ### 飞云机场免费节点
 
@@ -37,7 +37,7 @@ v2free机场有全面的使用教程，如果体验不错，可以购买付费�
 
 ## 3. 免费机场：~~TLY机场~~ 已无法打开
 
-机场地址：[TLY机场](https://clever99.com/j/tly)
+机场地址：[TLY机场]()
 
 ### TLY机场免费节点
 
